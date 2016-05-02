@@ -1,0 +1,33 @@
+.jumbotron {
+  background-image: url("http://www.picsources.com/wp-content/uploads/2015/10/banner-329.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+  font-family: 'Bad Script', cursive;
+  font-weight: bold;
+  height: 40%;
+  letter-spacing: 1px;
+}
+
+.dayspring {
+  margin-top: 10%;
+}
+
+.panel-heading {
+  background-color: snow;
+}
+
+.donor-post {
+  background-color: aliceblue;
+}
+
+.dayspring-reply {
+  background-color: mintcream;
+}
+
+.input-group {
+  margin-bottom: 5%;
+}
+
+.reply-btn {
+  margin-bottom: 5%;
+}
